@@ -1,0 +1,11 @@
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\bin\Debug\Matches.exe
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\bin\Debug\Matches.pdb
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\obj\x86\Debug\Matches.Form1.resources
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\obj\x86\Debug\Matches.Properties.Resources.resources
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\obj\x86\Debug\Matches.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\obj\x86\Debug\Matches.exe
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\obj\x86\Debug\Matches.pdb
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\obj\x86\Debug\Matches.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Desktop\Matches\Matches\Matches\obj\x86\Debug\Matches.Form2.resources
+C:\Users\crist\Downloads\Matches\Matches\Matches\Matches\obj\x86\Debug\Matches.exe
+C:\Users\crist\Downloads\Matches\Matches\Matches\Matches\obj\x86\Debug\Matches.pdb
